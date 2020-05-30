@@ -1,0 +1,41 @@
+.work-card-container {
+    margin-bottom: 50px;
+    .card {
+        overflow: hidden;
+        border-radius: 4px;
+        .work-card {
+            position: relative;
+            width: 480px;
+            height: 310px;
+            display: flex;
+            overflow: hidden;
+            transition: all 0.5s ease;
+            justify-content: center;
+            align-items: center;
+            box-sizing: border-box;
+            background-size: cover;
+            .overlay {
+                position: absolute;
+                top:0;
+                bottom: 0;
+                left:0;
+                right: 0;
+                background-color: rgba(108, 99, 255, 0.15);
+            }
+            a {
+                text-decoration: none;
+                font-size: 35px;
+                color:#000;
+                text-shadow: 2px 2px #f7f7f7;
+            }
+        }
+        &:hover {
+            .work-card {
+                transform: scale(1.2);
+            }
+            .overlay {
+                background-color: rgba(108, 99, 255, 0.3);
+            }
+        }
+    }
+}

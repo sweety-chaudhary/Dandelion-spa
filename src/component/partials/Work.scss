@@ -1,0 +1,25 @@
+.work-wraper {
+    .work-title {
+        text-align: center;
+        margin: 100px 0;
+        font-family: 'Old Standard TT', serif;
+        .title {
+            color: #000;
+            font-size: 36px;
+            line-height: 1.4;
+            letter-spacing: 2px;
+            margin-bottom: 15px;
+        }
+        .sub-title {
+            color: #3f3b3a;
+            font-size: 18px;
+            font-weight: 500;
+        }
+    }
+    .work-card-wraper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 0 85px;
+    }
+}
