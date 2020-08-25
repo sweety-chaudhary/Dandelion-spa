@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# This repo consist only front-end
 # Dandelion-spa
 It is a web application for purchasing paintings online 
 
