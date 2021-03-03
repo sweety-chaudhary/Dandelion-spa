@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Designed a template for E-commerce website
+# Design template for E-commerce website
 # Dandelion-spa
 Designed a template for E-commerce website, in #React:
 
