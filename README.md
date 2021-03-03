@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # This repo consist only front-end
 # Dandelion-spa
-It is a web application for purchasing paintings online 
+Designed a template for E-commerce website, in #React:
+
 
 ## Available Scripts
 
